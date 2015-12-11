@@ -2,3 +2,5 @@
 .idea
 
 adventofcode.iml
+
+node_modules
